@@ -8,7 +8,7 @@ I trained GPT-2 (medium) with [minimaxr's](https://github.com/minimaxir) noteboo
 > * people keep asking how i became blind in one eye. the truth is that i lost my left eye during in the greatest shit of all time
 ```
 
-Overall, to quote the bot, >i think its fucking awesome
+Overall, to quote the bot, `i think its fucking awesome`
 
 ## How it works
 
